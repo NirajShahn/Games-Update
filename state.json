@@ -1,1 +1,14 @@
-{"seen": {}, "initialized": true}
+{
+  "seen": {
+    "Garena Free Fire Official News": [
+      "25d939ffd0d79b7328ebafc63dd846048db94f1b7f2b2a21ddb77fc4cd54293a",
+      "da80318f47d7d919a262f5771614b837f0d97a2d7706186823a26e2b3bcaa86a",
+      "3762e992fc15298e4430fc25a2802806a35050860bbd0b8eeec74791ee9b3782",
+      "327a7380d2cc7cf09ed5820e1ecdb8abe585d696b5b5526986dfebe70acec59e",
+      "85c5dbd9c465759faae18372372a02ad9a8b23c7fe4a170e5da0765c0942419b",
+      "4b918d589849ae62a79b2f1f2a8e55d210d2891f584000a4315e747127d9ada6"
+    ],
+    "Sportskeeda Free Fire": []
+  },
+  "initialized": true
+}
