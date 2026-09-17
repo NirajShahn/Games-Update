@@ -1,0 +1,16 @@
+{
+  "sources": [
+    {
+      "name": "Garena Free Fire Official News",
+      "url": "https://ff.garena.com/en/news/",
+      "item_selector": "a",
+      "max_items": 20
+    },
+    {
+      "name": "Sportskeeda Free Fire",
+      "url": "https://www.sportskeeda.com/esports/free-fire",
+      "item_selector": "a.title",
+      "max_items": 20
+    }
+  ]
+}
